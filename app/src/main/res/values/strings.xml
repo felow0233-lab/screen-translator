@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Перевод экрана</string>
+
+    <string-array name="modes">
+        <item>Офлайн (ML Kit, бесплатно)</item>
+        <item>Онлайн (Google Cloud, нужен API-ключ)</item>
+    </string-array>
+</resources>
