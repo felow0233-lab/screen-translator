@@ -8,6 +8,7 @@ import android.graphics.GradientDrawable
 import android.graphics.Paint
 import android.graphics.PixelFormat
 import android.graphics.RectF
+import android.graphics.drawable.GradientDrawable
 import android.text.Layout
 import android.text.StaticLayout
 import android.text.TextPaint
